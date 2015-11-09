@@ -1,1 +1,1 @@
-# test-chome-extension
+# test-chrome-extension
